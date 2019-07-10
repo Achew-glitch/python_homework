@@ -5,3 +5,5 @@ b = 7
 c = [a, b]
 print(c)
 d = 'new test string'
+tuple_string = ('tuple first string')
+print(tuple_string + " + add string")
