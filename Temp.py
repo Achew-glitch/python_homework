@@ -7,3 +7,4 @@ print(c)
 d = 'new test string'
 tuple_string = ('tuple first string')
 print(tuple_string + " + add string")
+print('Hello without goodby')
