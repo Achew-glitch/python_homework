@@ -10,3 +10,4 @@ print(tuple_string + " + add string")
 print('Hello without goodby')
 print('Aloha!!!')
 print('Glad to see you')
+new_temp = 'adding new symbols'
