@@ -1,1 +1,1 @@
-print('Adding new file for new branch')
+print('Меняем язык для сообщения')
