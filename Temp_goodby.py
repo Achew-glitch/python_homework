@@ -1,2 +1,2 @@
 print('Goodby world')
-print('goodby_2')
+print('goodby_2;')
