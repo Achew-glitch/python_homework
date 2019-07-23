@@ -10,6 +10,8 @@ print('a = ', a)
 b = int(input('Введите число b: '))
 print('b = ', b)
 
+print('\n')
+
 a += b
 b = a - b
 a = a - b
